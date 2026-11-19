@@ -1,0 +1,14 @@
+/home/ui/Desktop/c#/bin/Debug/net8.0/c#
+/home/ui/Desktop/c#/bin/Debug/net8.0/c#.deps.json
+/home/ui/Desktop/c#/bin/Debug/net8.0/c#.runtimeconfig.json
+/home/ui/Desktop/c#/bin/Debug/net8.0/c#.dll
+/home/ui/Desktop/c#/bin/Debug/net8.0/c#.pdb
+/home/ui/Desktop/c#/obj/Debug/net8.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/ui/Desktop/c#/obj/Debug/net8.0/c#.AssemblyInfoInputs.cache
+/home/ui/Desktop/c#/obj/Debug/net8.0/c#.AssemblyInfo.cs
+/home/ui/Desktop/c#/obj/Debug/net8.0/c#.csproj.CoreCompileInputs.cache
+/home/ui/Desktop/c#/obj/Debug/net8.0/c#.dll
+/home/ui/Desktop/c#/obj/Debug/net8.0/refint/c#.dll
+/home/ui/Desktop/c#/obj/Debug/net8.0/c#.pdb
+/home/ui/Desktop/c#/obj/Debug/net8.0/c#.genruntimeconfig.cache
+/home/ui/Desktop/c#/obj/Debug/net8.0/ref/c#.dll
